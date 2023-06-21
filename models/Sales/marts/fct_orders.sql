@@ -19,3 +19,5 @@ with orders as (
 
 select *
 from joined
+
+-- testing CI JOB
