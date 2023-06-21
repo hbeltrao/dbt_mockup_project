@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: fct_orders
+    description: model with all orders made and their respective customer and value
+    columns:
+      - name: order_id
+      - name: customer_id
+      - name: amount
